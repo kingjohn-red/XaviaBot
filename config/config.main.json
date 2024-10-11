@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "100086928967994"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "100086928967994"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
+    "NAME": "kuze bot",
+    "PREFIX": "@",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
